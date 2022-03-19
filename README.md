@@ -1,2 +1,2 @@
 # background-generator
-Linear Gradient background generator using JavaScript ,CSS and HTMl
+Linear Gradient background generator using JavaScript ,CSS and HTML
